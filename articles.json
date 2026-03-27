@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "First Post",
+    "image": "https://picsum.photos/400/200",
+    "content": "<p>This is my first article.</p><img src='https://picsum.photos/600/300'>",
+    "chart": {
+      "labels": ["A", "B", "C"],
+      "data": [10, 20, 15]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Second Post",
+    "image": "https://picsum.photos/401/200",
+    "content": "<p>Another article with content.</p>",
+    "chart": {
+      "labels": ["X", "Y", "Z"],
+      "data": [5, 25, 10]
+    }
+  }
+]
